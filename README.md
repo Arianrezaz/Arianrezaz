@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🏫 My name is Arian and I'm a Software engineering student from Iran.<br><br>📚 My research interest fields are: AI, machine learning, cybersecurity, and penetration testing.</p>
+<p align="left">🏫 My name is Arian Rezazadeh and I'm a Software engineering student from Iran.<br><br>📚 My research interest fields are: AI, machine learning, cybersecurity, and penetration testing.</p>
 
 ###
 
