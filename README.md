@@ -22,7 +22,7 @@
 
 ###
 
-<h2 align="left">Things I'm Learning</h2>
+<h2 align="left">Things I'm Learning <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Writing%20Hand.webp" alt="Writing Hand" width="25" height="25" /> </h2>
 
 ###
 
