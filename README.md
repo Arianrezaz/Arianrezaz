@@ -45,6 +45,6 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/arian-rezazadeh-5770701a1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BiaL3S3i0QG2y%2Fesho3GuPA%3D%3D" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="Linkedin" />
   </a>
 </div>
