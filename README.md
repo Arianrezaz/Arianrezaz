@@ -4,7 +4,7 @@
        alt="Waving Hand" width="30" height="30" />
 </h1>
 
-<hr>
+
 
 <h2 align="left">
   About me 
@@ -22,7 +22,7 @@
   My research interest fields are: AI, machine learning, cybersecurity, and penetration testing.
 </p>
 
-<hr>
+
 
 <h2 align="left">
   Things I can work with 
@@ -36,7 +36,7 @@
   <img src="https://skillicons.dev/icons?i=python" height="65" alt="Python" />
 </div>
 
-<hr>
+
 
 <h2 align="left">
   Things I'm Learning 
@@ -52,7 +52,7 @@
   <img src="https://skillicons.dev/icons?i=dotnet" height="65" alt=".NET" />
 </div>
 
-<hr>
+
 
 <h2 align="left">
   Social Media 
