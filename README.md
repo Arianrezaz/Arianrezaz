@@ -6,11 +6,11 @@
 
 ###
 
-<p align="left">🏫 My name is Arian Rezazadeh and I'm a Software engineering student from Iran.<br><br>📚 My research interest fields are: AI, machine learning, cybersecurity, and penetration testing.</p>
+<p align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/House.webp" alt="House" width="25" height="25" /> My name is Arian Rezazadeh and I'm a Software engineering student from Iran.<br><br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Magnifying%20Glass%20Tilted%20Left.webp" alt="Magnifying Glass Tilted Left" width="25" height="25" /> My research interest fields are: AI, machine learning, cybersecurity, and penetration testing.</p>
 
 ###
 
-<h2 align="left">Things I can work with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Keyboard.webp" alt="Keyboard" width="25" height="25" /> </h2>
+<h2 align="left">Things I can work with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="25" height="25" /> </h2>
 
 ###
 
