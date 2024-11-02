@@ -22,7 +22,7 @@
 
 ###
 
-<h2 align="left">Things I'm Learning <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" /> </h2>
+<h2 align="left">Things I'm Learning <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="25" height="25" /> </h2>
 
 ###
 
