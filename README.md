@@ -64,12 +64,6 @@
   <a href="mailto:arian.rmn5281@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="65" alt="Gmail" />
   </a>
- <a href="https://gitlab.com/Arianrezaz" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gitlab" height="65" alt="GitLab" />
-  </a>
-  <a href="https://x.com/arianrezaz" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="65" alt="Twitter" />
-  </a>
   <a href="https://techhub.social/@arianrezaz" target="_blank">
     <img src="https://skillicons.dev/icons?i=mastodon" height="65" alt="Mastodon" />
   </a>
