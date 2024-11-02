@@ -17,7 +17,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=linux" height="60" alt="Linux" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python" />
 </div>
 
 ###
@@ -27,11 +27,11 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="JavaScript" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Node.js" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt=".NET" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt=".NET" />
 </div>
 
 ###
@@ -42,9 +42,9 @@
 
 <div align="left">
   <a href="mailto:arian.rmn5281@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="65" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/arian-rezazadeh-5770701a1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BiaL3S3i0QG2y%2Fesho3GuPA%3D%3D" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="Linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="65" alt="Linkedin" />
   </a>
 </div>
