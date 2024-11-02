@@ -62,12 +62,15 @@
 
 <div align="left">
   <a href="mailto:arian.rmn5281@gmail.com" target="_blank">
+    <img width="12" />
     <img src="https://skillicons.dev/icons?i=gmail" height="65" alt="Gmail" />
   </a>
   <a href="https://techhub.social/@arianrezaz" target="_blank">
+    <img width="12" />
     <img src="https://skillicons.dev/icons?i=mastodon" height="65" alt="Mastodon" />
   </a>
   <a href="https://www.linkedin.com/in/arian-rezazadeh-5770701a1" target="_blank">
+    <img width="12" />
     <img src="https://skillicons.dev/icons?i=linkedin" height="65" alt="Linkedin" />
   </a>
 </div>
