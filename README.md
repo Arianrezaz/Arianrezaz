@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Things I can work with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Keyboard.webp" alt="Keyboard" width="50" height="50" /> </h2>
+<h2 align="left">Things I can work with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Keyboard.webp" alt="Keyboard" width="25" height="25" /> </h2>
 
 ###
 
