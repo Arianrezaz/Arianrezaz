@@ -68,12 +68,12 @@
     <img src="https://skillicons.dev/icons?i=gitlab" height="65" alt="GitLab" />
   </a>
   <a href="https://x.com/arianrezaz" target="_blank">
-    <img src="https://skillicons.dev/icons?i=x" height="65" alt="Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/arian-rezazadeh-5770701a1" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="65" alt="Linkedin" />
+    <img src="https://skillicons.dev/icons?i=twitter" height="65" alt="Twitter" />
   </a>
   <a href="https://techhub.social/@arianrezaz" target="_blank">
     <img src="https://skillicons.dev/icons?i=mastodon" height="65" alt="Mastodon" />
+  </a>
+  <a href="https://www.linkedin.com/in/arian-rezazadeh-5770701a1" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="65" alt="Linkedin" />
   </a>
 </div>
