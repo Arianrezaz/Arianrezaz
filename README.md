@@ -15,7 +15,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="Linux" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
 </div>
