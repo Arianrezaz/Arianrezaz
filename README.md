@@ -1,5 +1,5 @@
-<h1 align="left">Hello there👋</h1>
-
+<h1 align="left">Hello there</h1>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="25" height="25" />
 ###
 
 <h2 align="left">About me</h2>
