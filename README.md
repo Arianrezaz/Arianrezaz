@@ -64,7 +64,16 @@
   <a href="mailto:arian.rmn5281@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="65" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/arian-rezazadeh-5770701a1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BiaL3S3i0QG2y%2Fesho3GuPA%3D%3D" target="_blank">
+ <a href="https://gitlab.com/Arianrezaz" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gitlab" height="65" alt="GitLab" />
+  </a>
+  <a href="https://x.com/arianrezaz" target="_blank">
+    <img src="https://skillicons.dev/icons?i=x" height="65" alt="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/arian-rezazadeh-5770701a1" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="65" alt="Linkedin" />
+  </a>
+  <a href="https://techhub.social/@arianrezaz" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mastodon" height="65" alt="Mastodon" />
   </a>
 </div>
