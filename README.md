@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Identification%20Card.webp" alt="Identification Card" width="25" height="25" /> About me</h2>
+<h2 align="left">About me<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Identification%20Card.webp" alt="Identification Card" width="25" height="25" /></h2>
 
 ###
 
