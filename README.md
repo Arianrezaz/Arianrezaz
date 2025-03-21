@@ -1,34 +1,18 @@
 <h1 align="left">
-  Hello there 
+  Hi there! 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" 
        alt="Waving Hand" width="30" height="30" />
 </h1>
 
-<hr>
+---
 
-<h2 align="left">
-  About me 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Identification%20Card.webp" 
-       alt="Identification Card" width="25" height="25" />
-</h2>
+## 🚀 About Me  
+👋 I'm **Arian Rezazadeh**, a passionate **Software Engineering** student from **Iran**.  
+🔍 My key areas of interest include **Artificial Intelligence (AI)**, **Machine Learning**, **Cybersecurity**, and **Penetration Testing**.
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/House.webp" 
-       alt="House" width="25" height="25" /> 
-  My name is Arian Rezazadeh and I'm a Software engineering student from Iran.
-  <br><br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Magnifying%20Glass%20Tilted%20Left.webp" 
-       alt="Magnifying Glass Tilted Left" width="25" height="25" /> 
-  My research interest fields are: AI, machine learning, cybersecurity, and penetration testing.
-</p>
+---
 
-<hr>
-
-<h2 align="left">
-  Things I can work with 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" 
-       alt="Technologist" width="25" height="25" />
-</h2>
+## 💻 Technologies I Work With  
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=linux" height="65" alt="Linux" />
@@ -36,13 +20,9 @@
   <img src="https://skillicons.dev/icons?i=python" height="65" alt="Python" />
 </div>
 
-<hr>
+---
 
-<h2 align="left">
-  Things I'm Learning 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" 
-       alt="Books" width="25" height="25" />
-</h2>
+## 📚 Currently Learning  
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=javascript" height="65" alt="JavaScript" />
@@ -52,13 +32,9 @@
   <img src="https://skillicons.dev/icons?i=dotnet" height="65" alt=".NET" />
 </div>
 
-<hr>
+---
 
-<h2 align="left">
-  Social Media 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Speech%20Balloon.webp" 
-       alt="Speech Balloon" width="25" height="25" />
-</h2>
+## 🌍 Connect with Me  
 
 <div align="left">
   <a href="mailto:arian.rmn5281@gmail.com" target="_blank">
@@ -68,6 +44,6 @@
     <img src="https://skillicons.dev/icons?i=mastodon" height="65" alt="Mastodon" />
   </a>
   <a href="https://www.linkedin.com/in/arian-rezazadeh-5770701a1" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="65" alt="Linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="65" alt="LinkedIn" />
   </a>
 </div>
