@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me  
-👋 I'm **Arian Rezazadeh**, a passionate **Software Engineering** student from **Iran**.  
+👋 I'm **Arian Rezazadeh**, a passionate **Software Engineering** student.  
 🔍 My key areas of interest include **Artificial Intelligence (AI)**, **Machine Learning**, **Cybersecurity**, and **Penetration Testing**.
 
 ---
