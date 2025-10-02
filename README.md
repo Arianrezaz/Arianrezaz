@@ -1,49 +1,33 @@
-<h1 align="left">
-  Hi there! 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" 
-       alt="Waving Hand" width="30" height="30" />
-</h1>
+### Hello there 👋  
+
+I'm **Arian Rezazadeh**, a passionate **Software Engineering** student.
+
+- 💡 My key areas of interest include:
+  - Artificial Intelligence (AI)
+  - Machine Learning
+  - Cybersecurity
+  - Penetration Testing
+
+- 💻 I primarily work with:
+  - Linux  
+  - Python
+  - JavaScript 
+
+- 🌱 I’m currently learning:
+  - Java
+  - Node.js
+  - Next.js
+  - Django 
 
 ---
 
-## 🚀 About Me  
-👋 I'm **Arian Rezazadeh**, a passionate **Software Engineering** student.  
-🔍 My key areas of interest include **Artificial Intelligence (AI)**, **Machine Learning**, **Cybersecurity**, and **Penetration Testing**.
+![Arian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arianrezaz&show_icons=true&count_private=true&theme=algolia&hide_rank=True)
+
+![](https://komarev.com/ghpvc/?username=arianrezaz&color=lightgrey)
 
 ---
 
-## 💻 Technologies I Work With  
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=linux" height="65" alt="Linux" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="65" alt="Python" />
-</div>
-
----
-
-## 📚 Currently Learning  
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=javascript" height="65" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="65" alt="Node.js" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="65" alt=".NET" />
-</div>
-
----
-
-## 🌍 Connect with Me  
-
-<div align="left">
-  <a href="mailto:arian.rmn5281@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="65" alt="Gmail" />
-  </a>
-  <a href="https://techhub.social/@arianrezaz" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mastodon" height="65" alt="Mastodon" />
-  </a>
-  <a href="https://www.linkedin.com/in/arian-rezazadeh-5770701a1" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="65" alt="LinkedIn" />
-  </a>
-</div>
+### 📫 Connect with Me  
+- Email: [arian.rmn5281@gmail.com](mailto:arian.rmn5281@gmail.com)  
+- Mastodon: [@arianrezaz](https://techhub.social/@arianrezaz)  
+- LinkedIn: [Arian Rezazadeh](https://www.linkedin.com/in/arian-rezazadeh-5770701a1)  
